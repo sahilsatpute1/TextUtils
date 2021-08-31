@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 # run npm install so that the node modules will be created and then run the react app.
+=======
+>>>>>>> e821a3e (routing has been done for home and about)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
